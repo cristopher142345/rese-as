@@ -24,3 +24,4 @@ Abre `http://localhost:3000` en el navegador. También puedes iniciar la aplicac
 - Diseño adaptable a pantallas móviles y de escritorio.
 
 Las reseñas se mantienen en memoria mientras el servidor está activo y se reinician cuando se reinicia la aplicación.
+# rese-as
